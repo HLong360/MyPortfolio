@@ -35,7 +35,7 @@ const TAB_DATA = [
         content: (
           <ul className="list-disc pl-2">
                 <li>Asia Pacific University</li>
-                <li>SMK Dato' Syed Esa</li>
+                <li>SMK Dato Syed Esa</li>
           </ul>
         ),
     }
